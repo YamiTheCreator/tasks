@@ -1,0 +1,10 @@
+bed	кровать
+cat	кот, кошка
+flower	цветок
+flowers	цветы
+gray	серый
+hello	привет, здравствуйте
+meat	мясо
+tea	чай
+thank you	спасибо
+to be or not to be	быть или не быть
